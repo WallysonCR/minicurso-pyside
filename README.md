@@ -140,8 +140,8 @@ Exemplos:
 
 Sinta-se à vontade para tirar dúvidas durante o evento.
 
-- Jonatas do Nascimento — [email]()
-- Wallyson Santos — [email]()
+- Jonatas do Nascimento — [email](contato.jonatasfreitas@johnprojects.dev)
+- Wallyson Santos — [email](wallyson.dev@hotmail.com)
 
 ---
 
