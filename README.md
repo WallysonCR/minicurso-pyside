@@ -89,12 +89,23 @@ pip install -r requirements.txt
 PySide6
 ```
 
+
 Instalação manual:
 
 ```bash
 pip install pyside6
 ```
 
+### Dependências Secundarias 
+
+```txt
+pyinstaller (Para criar um executavel e distrubuir entre diversos sistemas operacionais)
+```
+
+Instalação manual:
+
+```bash
+pip install pyinstaller
 
 ### Conteúdo do Minicurso
 
