@@ -123,10 +123,10 @@ pip install pyside6
 
 ### Slides e Materiais
 
-- Slides: [Em breve]()
-- Repositório do minicurso: [GitHub]()
+- Slides: [Ver aqui](https://drive.proton.me/urls/QZRHDN8WJG#u4IxYQnuyWY0)
+- Repositório do minicurso: [GitHub](https://github.com/WallysonCR/minicurso-pyside)
 - Exemplos práticos em `examples/`
-- Exercícios em `exercises/`
+- Projetos em `projects/`
 
 
 ### Projeto Final
